@@ -15,27 +15,27 @@
     }
   </style>
 <style>:root{--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#007bff;--secondary:#6c757d;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:"Source Sans Pro",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}*,:after,:before{box-sizing:border-box}html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent}body{margin:0;font-family:Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji",Segoe UI Symbol;font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff}@media print{*,:after,:before{text-shadow:none!important;box-shadow:none!important}@page{size:a3}body{min-width:992px!important}}body,html{min-height:100%}</style>
-<link rel="stylesheet" href="client/styles.c602e4f8916850bb.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="client/styles.c602e4f8916850bb.css"></noscript></head>
+<link rel="stylesheet" href="styles.c602e4f8916850bb.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.c602e4f8916850bb.css"></noscript></head>
 <body>
   <app-root></app-root>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
-<script src="client/runtime.496c0e2c6a8b4a3a.js" type="module"></script>
-<script src="client/polyfills.3e082ada18ed2c88.js" type="module"></script>
-<script src="client/scripts.386cf262327cdffd.js" defer></script>
-<script src="client/main.b43347218f6a522f.js" type="module"></script>
-<script src="client/163.d97948895e6bd56e.js"></script>
-<script src="client/182.203fa28f56e8769d.js"></script>
-<script src="client/249.0c9697fa295448f7.js"></script>
-<script src="client/277.341bb733ae7edd3d.js"></script>
-<script src="client/287.60966ae0515b57bd.js"></script>
-<script src="client/361.868624e9a996d35f.js"></script>
-<script src="client/363.acb3b6ca74cc7506.js"></script>
-<script src="client/440.c79fb0077843505f.js"></script>
-<script src="client/443.25e9f39b950a3283.js"></script>
-<script src="client/562.8ae53597b20f3411.js"></script>
-<script src="client/588.0b0598c2ea998a54.js"></script>
-<script src="client/700.cf4869ce3f2b6692.js"></script>
-<script src="client/823.4f7ba862ba515d28.js"></script>
-<script src="client/904.b1c47ce93d9783c2.js"></script>
-<script src="client/957.8f6337376a9ca97f.js"></script>
+<script src="runtime.496c0e2c6a8b4a3a.js" type="module"></script>
+<script src="polyfills.3e082ada18ed2c88.js" type="module"></script>
+<script src="scripts.386cf262327cdffd.js" defer></script>
+<script src="main.b43347218f6a522f.js" type="module"></script>
+<script src="163.d97948895e6bd56e.js"></script>
+<script src="182.203fa28f56e8769d.js"></script>
+<script src="249.0c9697fa295448f7.js"></script>
+<script src="277.341bb733ae7edd3d.js"></script>
+<script src="287.60966ae0515b57bd.js"></script>
+<script src="361.868624e9a996d35f.js"></script>
+<script src="363.acb3b6ca74cc7506.js"></script>
+<script src="440.c79fb0077843505f.js"></script>
+<script src="443.25e9f39b950a3283.js"></script>
+<script src="562.8ae53597b20f3411.js"></script>
+<script src="588.0b0598c2ea998a54.js"></script>
+<script src="700.cf4869ce3f2b6692.js"></script>
+<script src="823.4f7ba862ba515d28.js"></script>
+<script src="904.b1c47ce93d9783c2.js"></script>
+<script src="957.8f6337376a9ca97f.js"></script>
 </body></html>
