@@ -19,23 +19,23 @@
 <body>
   <app-root></app-root>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
-<script src="runtime.496c0e2c6a8b4a3a.js" type="module"></script>
-<script src="polyfills.3e082ada18ed2c88.js" type="module"></script>
-<script src="scripts.386cf262327cdffd.js" defer></script>
-<script src="main.b43347218f6a522f.js" type="module"></script>
-<script src="163.d97948895e6bd56e.js"></script>
-<script src="182.203fa28f56e8769d.js"></script>
-<script src="249.0c9697fa295448f7.js"></script>
-<script src="277.341bb733ae7edd3d.js"></script>
-<script src="287.60966ae0515b57bd.js"></script>
-<script src="361.868624e9a996d35f.js"></script>
-<script src="363.acb3b6ca74cc7506.js"></script>
-<script src="440.c79fb0077843505f.js"></script>
-<script src="443.25e9f39b950a3283.js"></script>
-<script src="562.8ae53597b20f3411.js"></script>
-<script src="588.0b0598c2ea998a54.js"></script>
-<script src="700.cf4869ce3f2b6692.js"></script>
-<script src="823.4f7ba862ba515d28.js"></script>
-<script src="904.b1c47ce93d9783c2.js"></script>
-<script src="957.8f6337376a9ca97f.js"></script>
+<script src="client/runtime.496c0e2c6a8b4a3a.js" type="module"></script>
+<script src="client/polyfills.3e082ada18ed2c88.js" type="module"></script>
+<script src="client/scripts.386cf262327cdffd.js" defer></script>
+<script src="client/main.b43347218f6a522f.js" type="module"></script>
+<script src="client/163.d97948895e6bd56e.js"></script>
+<script src="client/182.203fa28f56e8769d.js"></script>
+<script src="client/249.0c9697fa295448f7.js"></script>
+<script src="client/277.341bb733ae7edd3d.js"></script>
+<script src="client/287.60966ae0515b57bd.js"></script>
+<script src="client/361.868624e9a996d35f.js"></script>
+<script src="client/363.acb3b6ca74cc7506.js"></script>
+<script src="client/440.c79fb0077843505f.js"></script>
+<script src="client/443.25e9f39b950a3283.js"></script>
+<script src="client/562.8ae53597b20f3411.js"></script>
+<script src="client/588.0b0598c2ea998a54.js"></script>
+<script src="client/700.cf4869ce3f2b6692.js"></script>
+<script src="client/823.4f7ba862ba515d28.js"></script>
+<script src="client/904.b1c47ce93d9783c2.js"></script>
+<script src="client/957.8f6337376a9ca97f.js"></script>
 </body></html>
