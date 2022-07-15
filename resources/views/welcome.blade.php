@@ -19,10 +19,7 @@
 <body>
   <app-root></app-root>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
-<script src="client/runtime.496c0e2c6a8b4a3a.js" type="module"></script>
-<script src="client/polyfills.3e082ada18ed2c88.js" type="module"></script>
-<script src="client/scripts.386cf262327cdffd.js" defer></script>
-<script src="client/main.b43347218f6a522f.js" type="module"></script>
+<script src="client/runtime.496c0e2c6a8b4a3a.js" type="module"></script><script src="client/polyfills.3e082ada18ed2c88.js" type="module"></script><script src="client/scripts.386cf262327cdffd.js" defer></script><script src="client/main.b43347218f6a522f.js" type="module"></script>
 <script src="client/163.d97948895e6bd56e.js"></script>
 <script src="client/182.203fa28f56e8769d.js"></script>
 <script src="client/249.0c9697fa295448f7.js"></script>
